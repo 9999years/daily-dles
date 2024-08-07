@@ -25,6 +25,7 @@ A list of daily puzzle games to play on your own or with friends.
 * [Where Taken USA](https://wheretakenusa.teuteuf.fr/): Guess what US state a
   photo was taken in, then play a trivia quiz about that state
 * [Travle](https://travle.earth/): Find the shortest route between two countries
+* [Unzoomed](https://www.unzoomed.com/en): Identify a city from satellite imagery
 
 
 ## Music
