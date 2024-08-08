@@ -16,6 +16,8 @@ A list of daily puzzle games to play on your own or with friends.
   [word2vec](https://en.wikipedia.org/wiki/Word2vec) semantic distance feedback
 * [Waffle](https://wafflegame.net/daily): Swap tiles to find words in a
   waffle-shaped grid
+* [Pixletters](https://pixletters.com/): Guess a word with clues based on
+  overlap with a pixelated font
 
 
 ## Geography
