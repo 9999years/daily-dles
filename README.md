@@ -20,6 +20,8 @@ A list of daily puzzle games to play on your own or with friends.
   overlap with a pixelated font
 * [Grandma’s Word](https://grandmasword.com/): Guess Grandma’s secret word
 * [Letterle](https://edjefferson.com/letterle/): Guess the day’s letter
+* [decipher.wtf](https://decipher.wtf/): Guess a substitution cipher to reveal
+  a quote
 
 
 ## Geography
@@ -48,6 +50,9 @@ A list of daily puzzle games to play on your own or with friends.
   ‘the’”)
 * [framed.wtf](https://framed.wtf/): Guess a movie from 6 stills
 * [episode.wtf](https://episode.wtf) (weekly): Guess a TV show from 6 stills
+* [gaps.wtf](https://gaps.wtf/): Guess missing letters in a movie title from
+  trivia
+* [Plotwords](https://plotwords.com/daily): Guess a movie from plot keywords
 
 
 ## Misc
@@ -64,6 +69,8 @@ A list of daily puzzle games to play on your own or with friends.
 * [Rank This](https://rank-this.com/): Rank 6 items on an unknown scale
 * [Pokedoku](https://pokedoku.com/): Fill out a 3x3 grid by guessing Pokémon
   that combine a type (like “grass”) and an attribute (like “middle evolution”)
+* [Numble](https://numble.wtf/): Guess an equation using a set of 6 numbers to
+  create an answer
 * [Hexcodle](https://hexcodle.com/): Guess a color's hex code. This one is not
   very fun
 * [Murdle](https://murdle.com/): Solve a murder mystery [logic
