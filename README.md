@@ -18,6 +18,8 @@ A list of daily puzzle games to play on your own or with friends.
   waffle-shaped grid
 * [Pixletters](https://pixletters.com/): Guess a word with clues based on
   overlap with a pixelated font
+* [Grandma’s Word](https://grandmasword.com/): Guess Grandma’s secret word
+* [Letterle](https://edjefferson.com/letterle/): Guess the day’s letter
 
 
 ## Geography
