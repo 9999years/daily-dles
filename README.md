@@ -34,12 +34,6 @@ A list of daily puzzle games to play on your own or with friends.
 * [Unzoomed](https://www.unzoomed.com/en): Identify a city from satellite imagery
 
 
-## Music
-
-* [Spotle](https://spotle.io/): Guess an artist based on their debut year,
-  popularity, and origin country
-
-
 ## Movies & TV
 
 * [Cine2nerdle](https://www.cinenerdle2.app/): Create groups of 4 tiles from a set of
@@ -53,6 +47,12 @@ A list of daily puzzle games to play on your own or with friends.
 * [gaps.wtf](https://gaps.wtf/): Guess missing letters in a movie title from
   trivia
 * [Plotwords](https://plotwords.com/daily): Guess a movie from plot keywords
+
+
+## Music
+
+* [Spotle](https://spotle.io/): Guess an artist based on their debut year,
+  popularity, and origin country
 
 
 ## Misc
