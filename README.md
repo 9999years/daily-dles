@@ -53,6 +53,7 @@ A list of daily puzzle games to play on your own or with friends.
 
 * [Spotle](https://spotle.io/): Guess an artist based on their debut year,
   popularity, and origin country
+* [Bandle](https://bandle.app/): Guess a song based on MIDI stems
 
 
 ## Misc
