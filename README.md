@@ -19,6 +19,7 @@ A list of daily puzzle games to play on your own or with friends.
 * [Pixletters](https://pixletters.com/): Guess a word with clues based on
   overlap with a pixelated font
 * [Grandma’s Word](https://grandmasword.com/): Guess Grandma’s secret word
+* [Squeezy](https://imsqueezy.com/): Insert letters to complete words
 * [Letterle](https://edjefferson.com/letterle/): Guess the day’s letter
 * [decipher.wtf](https://decipher.wtf/): Guess a substitution cipher to reveal
   a quote
@@ -54,6 +55,7 @@ A list of daily puzzle games to play on your own or with friends.
 * [Spotle](https://spotle.io/): Guess an artist based on their debut year,
   popularity, and origin country
 * [Bandle](https://bandle.app/): Guess a song based on MIDI stems
+* [Harmonies](https://harmonies.io/): Find groups of 4 from a set of 16 songs
 
 
 ## Misc
@@ -66,7 +68,6 @@ A list of daily puzzle games to play on your own or with friends.
   Challenge](https://www.nejm.org/image-challenge) (weekly): Guess the
   diagnosis from imaging and a description of symptoms
 * [Refractor](https://refractor-game.com/): Solve a visual puzzle by mixing colors
-* [Harmonies](https://harmonies.io/): Find groups of 4 from a set of 16 songs
 * [Rank This](https://rank-this.com/): Rank 6 items on an unknown scale
 * [Pokedoku](https://pokedoku.com/): Fill out a 3x3 grid by guessing Pokémon
   that combine a type (like “grass”) and an attribute (like “middle evolution”)
