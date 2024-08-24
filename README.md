@@ -23,6 +23,7 @@ A list of daily puzzle games to play on your own or with friends.
 * [Letterle](https://edjefferson.com/letterle/): Guess the day’s letter
 * [decipher.wtf](https://decipher.wtf/): Guess a substitution cipher to reveal
   a quote
+* [Quordle](https://quordlegame.com/): Four Wordles at once
 
 
 ## Geography
