@@ -64,7 +64,7 @@ A list of daily puzzle games to play on your own or with friends.
 * [Metazooa](https://metazooa.com/game): Guess an animal with taxonomical clues
 * [Costcodle](https://costcodle.com/): Guess the price of an item for sale at Costco
 * [Gamedle](https://www.gamedle.wtf/): Guess a game by its cover, artwork, or
-  keywords
+* [Guess The.Game](https://guessthe.game/): Guess a game by 6 screenshots, framed.wtf-style
 * [New England Journal of Medicine Image
   Challenge](https://www.nejm.org/image-challenge) (weekly): Guess the
   diagnosis from imaging and a description of symptoms
