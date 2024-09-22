@@ -61,6 +61,7 @@ A list of daily puzzle games to play on your own or with friends.
 
 ## Misc
 
+* [Daily Dozen Trivia](https://dailydozentrivia.com/)
 * [Metazooa](https://metazooa.com/game): Guess an animal with taxonomical clues
 * [Costcodle](https://costcodle.com/): Guess the price of an item for sale at Costco
 * [Gamedle](https://www.gamedle.wtf/): Guess a game by its cover, artwork, or
