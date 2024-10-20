@@ -66,6 +66,10 @@ A list of daily puzzle games to play on your own or with friends.
 * [Costcodle](https://costcodle.com/): Guess the price of an item for sale at Costco
 * [Gamedle](https://www.gamedle.wtf/): Guess a game by its cover, artwork, or
 * [Guess The.Game](https://guessthe.game/): Guess a game by 6 screenshots, framed.wtf-style
+* [Pinpoint by LinkedIn](https://www.linkedin.com/games/pinpoint): Guess a
+  category from 5 examples revealed one at a time
+* [Crossclimb by LinkedIn](https://www.linkedin.com/games/crossclimb): Answer
+  trivia questions with solutions that differ by one letter
 * [New England Journal of Medicine Image
   Challenge](https://www.nejm.org/image-challenge) (weekly): Guess the
   diagnosis from imaging and a description of symptoms
