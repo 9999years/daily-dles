@@ -4,18 +4,12 @@ A list of daily puzzle games to play on your own or with friends.
 
 ## Words
 
-* ~~Wordle: 6 chances to guess a 5-letter
+* [Wordle](https://www.nytimes.com/games/wordle): 6 chances to guess a 5-letter
   word with
   [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game))-style
-  feedback~~
-  * Note: NYT Games are currently [behind a picket
-    line](https://www.polygon.com/news/474209/new-york-times-strike-wordle-connections).
-    Don’t play them until the strike is over!
-* [Connections](https://connections.swellgarfo.com/game/-OB15lz2phb8ai9RwufV): Create groups of 4
+  feedback
+* [Connections](https://www.nytimes.com/games/connections): Create groups of 4
   from a set of 16 tiles
-  * Note: NYT Connections is [behind a picket
-    line](https://www.theverge.com/2024/11/6/24289634/nyt-tech-guild-connections-strike-edition-custom-creator),
-    this is the “Connections: Strike Edition”
 * [Betweenle](https://betweenle.com/): Guess a word alphabetically between your
   guesses
 * [spellcheck.xyz](https://spellcheck.xyz/): Spell words from audio
