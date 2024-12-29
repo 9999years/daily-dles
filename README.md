@@ -35,7 +35,8 @@ A list of daily puzzle games to play on your own or with friends.
   photo was taken in, then play a trivia quiz about that state
 * [Travle](https://travle.earth/): Find the shortest route between two countries
 * [Unzoomed](https://www.unzoomed.com/en): Identify a city from satellite imagery
-
+* [FoodGuessr](https://www.foodguessr.com/): Guess what country a food is from
+  based on photos, ingredients, and the dish's recipe
 
 ## Movies & TV
 
@@ -71,6 +72,7 @@ A list of daily puzzle games to play on your own or with friends.
   category from 5 examples revealed one at a time
 * [Crossclimb by LinkedIn](https://www.linkedin.com/games/crossclimb): Answer
   trivia questions with solutions that differ by one letter
+* [Fishdle](https://tacklevillage.com/fishdle-game/): Guess a fish from a silhouette
 * [New England Journal of Medicine Image
   Challenge](https://www.nejm.org/image-challenge) (weekly): Guess the
   diagnosis from imaging and a description of symptoms
