@@ -72,6 +72,9 @@ A list of daily puzzle games to play on your own or with friends.
   category from 5 examples revealed one at a time
 * [Crossclimb by LinkedIn](https://www.linkedin.com/games/crossclimb): Answer
   trivia questions with solutions that differ by one letter
+* [Listed](https://listed.fun/): Guess the price of a house from listing photos
+* [Housle](https://housle.house/): Guess the price of a house from listing
+  photos and clues
 * [Fishdle](https://tacklevillage.com/fishdle-game/): Guess a fish from a silhouette
 * [New England Journal of Medicine Image
   Challenge](https://www.nejm.org/image-challenge) (weekly): Guess the
