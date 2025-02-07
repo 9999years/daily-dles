@@ -29,14 +29,16 @@ A list of daily puzzle games to play on your own or with friends.
 
 ## Geography
 
-* [Tradle](https://games.oec.world/en/tradle/): Guess a country based on its exports
-* [TimeGuessr](https://timeguessr.com/): Guess where and when a photo was taken
-* [Where Taken USA](https://wheretakenusa.teuteuf.fr/): Guess what US state a
-  photo was taken in, then play a trivia quiz about that state
-* [Travle](https://travle.earth/): Find the shortest route between two countries
 * [Unzoomed](https://www.unzoomed.com/en): Identify a city from satellite imagery
+* [TimeGuessr](https://timeguessr.com/): Guess where and when a photo was taken
+* [Tradle](https://games.oec.world/en/tradle/): Guess a country based on its exports
+* [Pick 5](https://oec.world/en/games/pick-5): Guess the top 5 countries that
+  export a given good
 * [FoodGuessr](https://www.foodguessr.com/): Guess what country a food is from
   based on photos, ingredients, and the dish's recipe
+* [Travle](https://travle.earth/): Find the shortest route between two countries
+* [Where Taken USA](https://wheretakenusa.teuteuf.fr/): Guess what US state a
+  photo was taken in, then play a trivia quiz about that state
 
 ## Movies & TV
 
