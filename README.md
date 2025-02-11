@@ -31,6 +31,7 @@ A list of daily puzzle games to play on your own or with friends.
 
 * [Unzoomed](https://www.unzoomed.com/en): Identify a city from satellite imagery
 * [TimeGuessr](https://timeguessr.com/): Guess where and when a photo was taken
+* [ChronoPhoto](https://www.chronophoto.app/): Guess when a photo was taken 
 * [Tradle](https://games.oec.world/en/tradle/): Guess a country based on its exports
 * [Pick 5](https://oec.world/en/games/pick-5): Guess the top 5 countries that
   export a given good
