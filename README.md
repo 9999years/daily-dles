@@ -56,6 +56,14 @@ A list of daily puzzle games to play on your own or with friends.
 * [Plotwords](https://plotwords.com/daily): Guess a movie from plot keywords
 
 
+## Video Games
+
+* [Gamedle](https://www.gamedle.wtf/): Guess a game by its cover, artwork, or
+* [Guess The.Game](https://guessthe.game/): Guess a game by 6 screenshots,
+  framed.wtf-style
+* [Pokedoku](https://pokedoku.com/): Fill out a 3x3 grid by guessing Pokémon
+  that combine a type (like “grass”) and an attribute (like “middle evolution”)
+
 ## Music
 
 * [Spotle](https://spotle.io/): Guess an artist based on their debut year,
@@ -66,27 +74,24 @@ A list of daily puzzle games to play on your own or with friends.
 
 ## Misc
 
+* [dates.wiki](https://dates.wiki): Arrange historical events in a timeline
 * [Metazooa](https://metazooa.com/game): Guess an animal with taxonomical clues
 * [Costcodle](https://costcodle.com/): Guess the price of an item for sale at Costco
-* [Gamedle](https://www.gamedle.wtf/): Guess a game by its cover, artwork, or
-* [Guess The.Game](https://guessthe.game/): Guess a game by 6 screenshots, framed.wtf-style
 * [Pinpoint by LinkedIn](https://www.linkedin.com/games/pinpoint): Guess a
   category from 5 examples revealed one at a time
 * [Crossclimb by LinkedIn](https://www.linkedin.com/games/crossclimb): Answer
   trivia questions with solutions that differ by one letter
 * [Daily Dozen Trivia](https://dailydozentrivia.com/)
-* [dates.wiki](https://dates.wiki): Arrange historical events in a timeline
-* [Listed](https://listed.fun/): Guess the price of a house from listing photos
-* [Housle](https://housle.house/): Guess the price of a house from listing
-  photos and clues
 * [Fishdle](https://tacklevillage.com/fishdle-game/): Guess a fish from a silhouette
 * [New England Journal of Medicine Image
   Challenge](https://www.nejm.org/image-challenge) (weekly): Guess the
   diagnosis from imaging and a description of symptoms
 * [Refractor](https://refractor-game.com/): Solve a visual puzzle by mixing colors
 * [Rank This](https://rank-this.com/): Rank 6 items on an unknown scale
-* [Pokedoku](https://pokedoku.com/): Fill out a 3x3 grid by guessing Pokémon
-  that combine a type (like “grass”) and an attribute (like “middle evolution”)
+* [Listed](https://listed.fun/): Guess the price of a house from listing photos
+  (very depressing)
+* [Housle](https://housle.house/): Guess the price of a house from listing
+  photos and clues (pretty much the same as the previous one)
 * [Numble](https://numble.wtf/): Guess an equation using a set of 6 numbers to
   create an answer
 * [Hexcodle](https://hexcodle.com/): Guess a color's hex code. This one is not
