@@ -75,6 +75,7 @@ A list of daily puzzle games to play on your own or with friends.
 ## Misc
 
 * [dates.wiki](https://dates.wiki): Arrange historical events in a timeline
+* [Catfishing](https://catfishing.net/): Guess a Wikipedia article from its categories
 * [Metazooa](https://metazooa.com/game): Guess an animal with taxonomical clues
 * [Costcodle](https://costcodle.com/): Guess the price of an item for sale at Costco
 * [Pinpoint by LinkedIn](https://www.linkedin.com/games/pinpoint): Guess a
