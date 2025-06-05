@@ -35,8 +35,6 @@ A list of daily puzzle games to play on your own or with friends.
 * [Tradle](https://games.oec.world/en/tradle/): Guess a country based on its exports
 * [Pick 5](https://oec.world/en/games/pick-5): Guess the top 5 countries that
   export a given good
-* [FoodGuessr](https://www.foodguessr.com/): Guess what country a food is from
-  based on photos, ingredients, and the dish's recipe
 * [Travle](https://travle.earth/): Find the shortest route between two countries
 * [Where Taken USA](https://wheretakenusa.teuteuf.fr/): Guess what US state a
   photo was taken in, then play a trivia quiz about that state
@@ -64,6 +62,16 @@ A list of daily puzzle games to play on your own or with friends.
 * [Pokedoku](https://pokedoku.com/): Fill out a 3x3 grid by guessing Pokémon
   that combine a type (like “grass”) and an attribute (like “middle evolution”)
 
+
+## Food
+
+* [Scrandle](https://scrandle.com/): Guess which stadium food is more popular
+  based on a photo, location, and price.
+* [FoodGuessr](https://www.foodguessr.com/): Guess what country a food is from
+  based on photos, ingredients, and the dish's recipe
+* [Costcodle](https://costcodle.com/): Guess the price of an item for sale at Costco
+
+
 ## Music
 
 * [Spotle](https://spotle.io/): Guess an artist based on their debut year,
@@ -77,7 +85,6 @@ A list of daily puzzle games to play on your own or with friends.
 * [dates.wiki](https://dates.wiki): Arrange historical events in a timeline
 * [Catfishing](https://catfishing.net/): Guess a Wikipedia article from its categories
 * [Metazooa](https://metazooa.com/game): Guess an animal with taxonomical clues
-* [Costcodle](https://costcodle.com/): Guess the price of an item for sale at Costco
 * [Pinpoint by LinkedIn](https://www.linkedin.com/games/pinpoint): Guess a
   category from 5 examples revealed one at a time
 * [Crossclimb by LinkedIn](https://www.linkedin.com/games/crossclimb): Answer
