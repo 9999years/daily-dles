@@ -85,6 +85,8 @@ A list of daily puzzle games to play on your own or with friends.
 * [dates.wiki](https://dates.wiki): Arrange historical events in a timeline
 * [Catfishing](https://catfishing.net/): Guess a Wikipedia article from its categories
 * [Metazooa](https://metazooa.com/game): Guess an animal with taxonomical clues
+* [Disorderly](https://playdisorderly.com/): Sort 6 items from a category like
+  "books by length" or "occupations by average salary"
 * [Pinpoint by LinkedIn](https://www.linkedin.com/games/pinpoint): Guess a
   category from 5 examples revealed one at a time
 * [Crossclimb by LinkedIn](https://www.linkedin.com/games/crossclimb): Answer
