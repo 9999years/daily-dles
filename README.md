@@ -13,6 +13,8 @@ A list of daily puzzle games to play on your own or with friends.
 * [Betweenle](https://betweenle.com/): Guess a word alphabetically between your
   guesses
 * [spellcheck.xyz](https://spellcheck.xyz/): Spell words from audio
+* [Word Grid](https://wordgrid.clevergoat.com/): Fill out a 3x3 grid of words
+  based on letter constraints like “contains o and n” and “five letter word”
 * [Semantle](https://semantle.com/): Guess a word with
   [word2vec](https://en.wikipedia.org/wiki/Word2vec) semantic distance feedback
 * [Waffle](https://wafflegame.net/daily): Swap tiles to find words in a
