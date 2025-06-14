@@ -38,6 +38,9 @@ A list of daily puzzle games to play on your own or with friends.
 * [Travle](https://travle.earth/): Find the shortest route between two countries
 * [Where Taken USA](https://wheretakenusa.teuteuf.fr/): Guess what US state a
   photo was taken in, then play a trivia quiz about that state
+* [Juxtastat](https://urbanstats.org/quiz.html): Guess regional demographics
+  and characteristics, e.g. “Which has more people with a business degree, as a
+  percentage of the overall population?”
 
 ## Movies & TV
 
