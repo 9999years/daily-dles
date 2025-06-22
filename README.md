@@ -92,6 +92,8 @@ A list of daily puzzle games to play on your own or with friends.
 * [Metazooa](https://metazooa.com/game): Guess an animal with taxonomical clues
 * [Disorderly](https://playdisorderly.com/): Sort 6 items from a category like
   "books by length" or "occupations by average salary"
+* [More/less](https://moreorless.io/): Guess which of two items is more or less
+  on a given scale (movie ratings, historical event dates, etc.)
 * [Pinpoint by LinkedIn](https://www.linkedin.com/games/pinpoint): Guess a
   category from 5 examples revealed one at a time
 * [Crossclimb by LinkedIn](https://www.linkedin.com/games/crossclimb): Answer
