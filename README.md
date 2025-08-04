@@ -27,6 +27,8 @@ A list of daily puzzle games to play on your own or with friends.
 * [decipher.wtf](https://decipher.wtf/): Guess a substitution cipher to reveal
   a quote
 * [Quordle](https://quordlegame.com/): Four Wordles at once
+* [Shrinkle](https://www.shrinkle.org/): Make new words by removing letters
+  from existing words
 
 
 ## Geography
