@@ -85,6 +85,8 @@ A list of daily puzzle games to play on your own or with friends.
   popularity, and origin country
 * [Bandle](https://bandle.app/): Guess a song based on MIDI stems
 * [Harmonies](https://harmonies.io/): Find groups of 4 from a set of 16 songs
+* [Bladee Heardle](https://bladeeheardle.com/): Guess *one* Bladee song every
+  day. Starts with a one-second clip. For the truly dedicated.
 * [Porter Robinsle](https://porterrobinsle.com/): Guess *five* (!) Porter
   Robinson songs every day. Starts with a half-second clip. For the truly dedicated.
 
