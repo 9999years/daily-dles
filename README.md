@@ -61,6 +61,8 @@ A list of daily puzzle games to play on your own or with friends.
 * [gaps.wtf](https://gaps.wtf/): Guess missing letters in a movie title from
   trivia
 * [Plotwords](https://plotwords.com/daily): Guess a movie from plot keywords
+* [Reely](https://www.playreely.com/): Link two movies with a sequence of
+  actors and the movies they're in
 
 
 ## Video Games
