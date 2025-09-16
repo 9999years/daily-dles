@@ -107,6 +107,9 @@ A list of daily puzzle games to play on your own or with friends.
 * [dates.wiki](https://dates.wiki): Arrange historical events in a timeline
 * [Bracket City](https://www.theatlantic.com/games/bracket-city/): "Solve
   nested clues to reveal a satisfying fact about this day in history"
+* [Pedantle](https://pedantle.certitudes.org/): Guess a Wikipedia article by
+  revealing its first section one word at a time. Punishing. Expect to spend
+  30+ minutes on this, if you get it at all.
 * [More/less](https://moreorless.io/): Guess which of two items is more or less
   on a given scale (movie ratings, historical event dates, etc.)
 * [Pinpoint by LinkedIn](https://www.linkedin.com/games/pinpoint): Guess a
