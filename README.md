@@ -10,7 +10,6 @@ A list of daily puzzle games to play on your own or with friends.
 • [framed.wtf](https://framed.wtf/)
 • [Cine2nerdle](https://www.cinenerdle2.app/)
 • [Minute Cryptic](https://www.minutecryptic.com/)
-• [Unzoomed](https://www.unzoomed.com/en)
 • [TimeGuessr](https://timeguessr.com/)
 • [Juxtastat](https://urbanstats.org/quiz.html)
 • [ChronoPhoto](https://www.chronophoto.app/)
@@ -54,7 +53,6 @@ A list of daily puzzle games to play on your own or with friends.
 
 ## Geography
 
-* [Unzoomed](https://www.unzoomed.com/en): Identify a city from satellite imagery
 * [TimeGuessr](https://timeguessr.com/): Guess where and when a photo was taken
 * [ChronoPhoto](https://www.chronophoto.app/): Guess when a photo was taken 
 * [Tradle](https://games.oec.world/en/tradle/): Guess a country based on its exports
