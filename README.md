@@ -97,7 +97,6 @@ A list of daily puzzle games to play on your own or with friends.
 
 ## Misc
 
-* [dates.wiki](https://dates.wiki): Arrange historical events in a timeline
 * [Catfishing](https://catfishing.net/): Guess a Wikipedia article from its categories
 * [Metazooa](https://metazooa.com/game): Guess an animal with taxonomical clues
 * [Disorderly](https://playdisorderly.com/): Sort 6 items from a category like
@@ -105,6 +104,7 @@ A list of daily puzzle games to play on your own or with friends.
 * [Thrice](https://thrice.geekswhodrink.com/): "5 rounds of brain gymnastics,
   each from a different category. 3 questions per round, all with the same
   answer"
+* [dates.wiki](https://dates.wiki): Arrange historical events in a timeline
 * [More/less](https://moreorless.io/): Guess which of two items is more or less
   on a given scale (movie ratings, historical event dates, etc.)
 * [Pinpoint by LinkedIn](https://www.linkedin.com/games/pinpoint): Guess a
