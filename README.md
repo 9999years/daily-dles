@@ -86,7 +86,7 @@ A list of daily puzzle games to play on your own or with friends.
 
 ## Video Games
 
-* [Gamedle](https://www.gamedle.wtf/): Guess a game by its cover, artwork, or
+* [Gamedle](https://www.gamedle.wtf/): Guess a game by its cover or artwork
 * [Guess The.Game](https://guessthe.game/): Guess a game by 6 screenshots,
   framed.wtf-style
 * [Pokedoku](https://pokedoku.com/): Fill out a 3x3 grid by guessing Pokémon
