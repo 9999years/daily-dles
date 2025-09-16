@@ -29,6 +29,8 @@ A list of daily puzzle games to play on your own or with friends.
 * [Quordle](https://quordlegame.com/): Four Wordles at once
 * [Shrinkle](https://www.shrinkle.org/): Make new words by removing letters
   from existing words
+* [Minute Cryptic](https://www.minutecryptic.com/): Riddle-like wordplay
+  puzzles with semi-nonsense sentences as clues
 
 
 ## Geography
