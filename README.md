@@ -2,6 +2,24 @@
 
 A list of daily puzzle games to play on your own or with friends.
 
+[Connections](https://www.nytimes.com/games/connections)
+• [Catfishing](https://catfishing.net/)
+• [Scrandle](https://scrandle.com/)
+• [FoodGuessr](https://www.foodguessr.com/)
+• [framed.wtf](https://framed.wtf/)
+• [Cine2nerdle](https://www.cinenerdle2.app/)
+• [Minute Cryptic](https://www.minutecryptic.com/)
+• [Unzoomed](https://www.unzoomed.com/en)
+• [TimeGuessr](https://timeguessr.com/)
+• [Juxtastat](https://urbanstats.org/quiz.html)
+• [ChronoPhoto](https://www.chronophoto.app/)
+• [Gamedle](https://www.gamedle.wtf/)
+• [Guess The.Game](https://guessthe.game/)
+• [Costcodle](https://costcodle.com/)
+• [Bandle](https://bandle.app/)
+• [Bladee Heardle](https://bladeeheardle.com/)
+• [Disorderly](https://playdisorderly.com/)
+
 ## Words
 
 * [Wordle](https://www.nytimes.com/games/wordle): 6 chances to guess a 5-letter
