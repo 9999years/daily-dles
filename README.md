@@ -152,3 +152,4 @@ A list of daily puzzle games to play on your own or with friends.
   very fun
 * [Murdle](https://murdle.com/): Solve a murder mystery [logic
   puzzle](https://en.wikipedia.org/wiki/Logic_puzzle)
+* [Angle](https://angle.wtf/): Guess an angle. From looking at it.
