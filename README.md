@@ -4,6 +4,7 @@ A list of daily puzzle games to play on your own or with friends.
 
 [Connections](https://www.nytimes.com/games/connections)
 • [Catfishing](https://catfishing.net/)
+• [Thrice](https://thrice.geekswhodrink.com/)
 • [Scrandle](https://scrandle.com/)
 • [FoodGuessr](https://www.foodguessr.com/)
 • [framed.wtf](https://framed.wtf/)
