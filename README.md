@@ -119,6 +119,8 @@ A list of daily puzzle games to play on your own or with friends.
 ## Misc
 
 * [Catfishing](https://catfishing.net/): Guess a Wikipedia article from its categories
+* [Centroid](https://centroidgame.com/): Guess the center of mass of a
+  collection of shapes.
 * [Metazooa](https://metazooa.com/game): Guess an animal with taxonomical clues
 * [Disorderly](https://playdisorderly.com/): Sort 6 items from a category like
   "books by length" or "occupations by average salary"
