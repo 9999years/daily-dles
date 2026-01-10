@@ -19,6 +19,7 @@ A list of daily puzzle games to play on your own or with friends.
 • [Bandle](https://bandle.app/)
 • [Bladee Heardle](https://bladeeheardle.com/)
 • [Disorderly](https://playdisorderly.com/)
+• [Seattle Times Games](https://www.seattletimes.com/entertainment/games/)
 
 ## Words
 
@@ -49,6 +50,9 @@ A list of daily puzzle games to play on your own or with friends.
   from existing words
 * [Minute Cryptic](https://www.minutecryptic.com/): Riddle-like wordplay
   puzzles with semi-nonsense sentences as clues
+* [Seattle Times Games](https://www.seattletimes.com/entertainment/games/):
+  Miscellaneous games from The Seattle Times, including a Mini Crossword and a
+  Wordle ripoff, just the standard fare.
 
 
 ## Geography
