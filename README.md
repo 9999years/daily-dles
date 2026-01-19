@@ -20,6 +20,7 @@ A list of daily puzzle games to play on your own or with friends.
 • [Bladee Heardle](https://bladeeheardle.com/)
 • [Disorderly](https://playdisorderly.com/)
 • [Seattle Times Games](https://www.seattletimes.com/entertainment/games/)
+• [enclose.horse](https://enclose.horse/)
 
 ## Words
 
@@ -127,6 +128,8 @@ A list of daily puzzle games to play on your own or with friends.
 * [Thrice](https://thrice.geekswhodrink.com/): "5 rounds of brain gymnastics,
   each from a different category. 3 questions per round, all with the same
   answer"
+* [enclose.horse](https://enclose.horse/): A grid-based optimization puzzle
+  game about enclosing a horse in the biggest possible pen.
 * [dates.wiki](https://dates.wiki): Arrange historical events in a timeline
 * [Bracket City](https://www.theatlantic.com/games/bracket-city/): "Solve
   nested clues to reveal a satisfying fact about this day in history"
