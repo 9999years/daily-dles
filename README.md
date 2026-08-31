@@ -139,6 +139,8 @@ Many more: [dles.aukspot.com](https://dles.aukspot.com/)
   30+ minutes on this, if you get it at all.
 * [More/less](https://moreorless.io/): Guess which of two items is more or less
   on a given scale (movie ratings, historical event dates, etc.)
+* [Higher or Lower Daily](https://playhigherlower.com/daily): Guess which of two
+  items has the higher real-world value in one shared challenge each day
 * [Pinpoint by LinkedIn](https://www.linkedin.com/games/pinpoint): Guess a
   category from 5 examples revealed one at a time
 * [Crossclimb by LinkedIn](https://www.linkedin.com/games/crossclimb): Answer
