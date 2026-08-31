@@ -19,7 +19,6 @@ A list of daily puzzle games to play on your own or with friends.
 • [Bandle](https://bandle.app/)
 • [Bladee Heardle](https://bladeeheardle.com/)
 • [Disorderly](https://playdisorderly.com/)
-• [Seattle Times Games](https://www.seattletimes.com/entertainment/games/)
 • [enclose.horse](https://enclose.horse/)
 
 ## Words
