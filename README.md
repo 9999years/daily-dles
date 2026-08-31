@@ -21,6 +21,8 @@ A list of daily puzzle games to play on your own or with friends.
 • [Disorderly](https://playdisorderly.com/)
 • [enclose.horse](https://enclose.horse/)
 
+Many more: [dles.aukspot.com](https://dles.aukspot.com/)
+
 ## Words
 
 * [Wordle](https://www.nytimes.com/games/wordle): 6 chances to guess a 5-letter
