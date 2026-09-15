@@ -8,7 +8,7 @@ A list of daily puzzle games to play on your own or with friends.
 • [Scrandle](https://scrandle.com/)
 • [FoodGuessr](https://www.foodguessr.com/)
 • [framed.wtf](https://framed.wtf/)
-• [Cine2nerdle](https://www.cinenerdle2.app/)
+• [CineNerdle](https://www.cinenerdle.app/)
 • [Minute Cryptic](https://www.minutecryptic.com/)
 • [TimeGuessr](https://timeguessr.com/)
 • [Juxtastat](https://urbanstats.org/quiz.html)
