@@ -132,6 +132,8 @@ Many more: [dles.aukspot.com](https://dles.aukspot.com/)
 * [enclose.horse](https://enclose.horse/): A grid-based optimization puzzle
   game about enclosing a horse in the biggest possible pen.
 * [dates.wiki](https://dates.wiki): Arrange historical events in a timeline
+* [Plain Game](https://plaingame.fun/): Seven guesses a day: name something close to a
+  target number or estimate an everyday fact
 * [Bracket City](https://www.theatlantic.com/games/bracket-city/): "Solve
   nested clues to reveal a satisfying fact about this day in history"
 * [Pedantle](https://pedantle.certitudes.org/): Guess a Wikipedia article by
