@@ -55,6 +55,7 @@ Many more: [dles.aukspot.com](https://dles.aukspot.com/)
 * [Seattle Times Games](https://www.seattletimes.com/entertainment/games/):
   Miscellaneous games from The Seattle Times, including a Mini Crossword and a
   Wordle ripoff, just the standard fare.
+* [Gramlet](https://gramlet.co.uk/): Claim letters across a hidden 8x8 grid, then play the best word you can from the letters you hold
 
 
 ## Geography
