@@ -86,6 +86,9 @@ Many more: [dles.aukspot.com](https://dles.aukspot.com/)
 * [Plotwords](https://plotwords.com/daily): Guess a movie from plot keywords
 * [Reely](https://www.playreely.com/): Link two movies with a sequence of
   actors and the movies they're in
+* [Trick Shot Cinema](https://trickshotcinema.com/?utm_source=daily-dles-9999years&utm_medium=directory&utm_campaign=listing):
+  Link a start movie to an end movie through a middle movie, naming shared
+  cast and crew from memory
 
 
 ## Video Games
