@@ -161,3 +161,5 @@ Many more: [dles.aukspot.com](https://dles.aukspot.com/)
 * [Murdle](https://murdle.com/): Solve a murder mystery [logic
   puzzle](https://en.wikipedia.org/wiki/Logic_puzzle)
 * [Angle](https://angle.wtf/): Guess an angle. From looking at it.
+* [Wikle](https://www.wikle.io/): Race from one Wikipedia article to another
+  using only the links inside each article
