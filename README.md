@@ -70,6 +70,10 @@ Many more: [dles.aukspot.com](https://dles.aukspot.com/)
 * [Juxtastat](https://urbanstats.org/quiz.html): Guess regional demographics
   and characteristics, e.g. “Which has more people with a business degree, as a
   percentage of the overall population?”
+* [Globe Party](https://globeparty.twograins.app/): Three countries a day: one
+  from its flag, one on a 3D globe with hot-and-cold feedback, one from clues
+  like continent and population. Play and compete with friends in Discord or
+  on iPhone
 
 ## Movies & TV
 
