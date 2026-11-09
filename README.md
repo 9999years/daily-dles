@@ -132,6 +132,7 @@ Many more: [dles.aukspot.com](https://dles.aukspot.com/)
 * [enclose.horse](https://enclose.horse/): A grid-based optimization puzzle
   game about enclosing a horse in the biggest possible pen.
 * [dates.wiki](https://dates.wiki): Arrange historical events in a timeline
+* [Icon of History](https://iconofhistory.com/): Guess a historical figure from six hints, from era and region down to initials
 * [Bracket City](https://www.theatlantic.com/games/bracket-city/): "Solve
   nested clues to reveal a satisfying fact about this day in history"
 * [Pedantle](https://pedantle.certitudes.org/): Guess a Wikipedia article by
